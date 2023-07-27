@@ -1,6 +1,6 @@
 export interface TokenPayload{
     id: string,
-    nickname: string
+    nickname: string,
 };
 export interface UserDB{
     id: string,
